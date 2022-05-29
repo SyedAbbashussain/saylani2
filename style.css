@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(247, 198, 218);
+}
+#main{
+    height: 865px;
+    width: 1850px;
+    background-color: white;
+    margin: 0 auto;
+    margin: 55px  55px 55px 55px;
+    display: inline-flex ;
+
+}
+#logo{
+    height: 80px;
+    width: 80pxpx;
+    background-color: rgb(208, 110, 238)
+}
+.fa-solid.fa-bars{
+    color: white;
+    margin: 0 auto;
+    font-size: 38px;
+    margin: 25px 30px 30px 27px;
+}
+
+#f{ 
+    height: 875px;
+    width: 90px ;
+    background-image: url(ggg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+#s{
+    height: 955px;
+    width: 1200px ;
+    margin-top: -40px;
+    background-image: url(pic.png);
+    box-shadow: 0 0 50px rgb(99, 97, 97);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#t{
+    display: block;
+}
+#para{
+    border-bottom: 1px solid black;
+    height: 325px;
+    width: 1000px;
+    margin: 80px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#info{
+    height: 432px;
+    margin: 80px;
+    margin-top: -40px;
+}
+#info2{
+    display: inline-flex;
+}
+#moni{
+    height: 300px;
+    width: 450px;
+    padding: 20px;
+}
+#rocket{
+    
+    height: 300px;
+    width: 450px;
+    margin-left: 10px;
+    padding: 20px;
+}
+.fa-solid{
+    color: rgb(235, 132, 235) ;
+    font-size: 38px;
+}
+h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+h2{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300px;
+
+}
+p{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fa-solid.fa-rocket-launch{
+    font-size: 100px;
+    color: aqua;
+}
